@@ -22,10 +22,11 @@ public class CalculadoraNota {
         }
     }
 
+    public String situacao(double notaFinal, double frequencia) {
+        return "";
+    }
+
 }
-
-
-
 
 
 
